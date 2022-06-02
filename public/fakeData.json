@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "BMW X5",
+    "price": "1.98 Crore",
+    "img": "https://www.autosbangla.com/images/bmw/bmw-x5-update-img.jpg"
+  },
+  {
+    "id": "2",
+    "name": "BMW 2 Series",
+    "price": "75 Lakh",
+    "img": "https://www.autosbangla.com/images/bmw/bmw-2-series-sedan-img.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Mercedes-benz",
+    "price": "1.25 Crore",
+    "img": "https://www.autosbangla.com/images/mercedes-benz/mercedes-e-class-180-img.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Mercedes-benz",
+    "price": "1.45 Crore",
+    "img": "https://www.autosbangla.com/images/mercedes-benz/Mercedes-cla-180-img.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Audi A8 L",
+    "price": "2.10 Crore",
+    "img": "https://www.autosbangla.com/images/audi/audi-a8-final-img.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Suzuki Baleno",
+    "price": "20 Lakh",
+    "img": "https://www.autosbangla.com/images/suzuki/suzuki-baleno.jpg"
+  },
+
+  {
+    "id": "7",
+    "name": "Mitsubishi Eclipse",
+    "price": "43 Lakh",
+    "img": "https://www.autosbangla.com/images/mitsubishi/mitsubish-eclipse-cross-img.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Mitsubishi Xpander",
+    "price": "32 Lakh",
+    "img": "https://www.autosbangla.com/images/mitsubishi/mitsubish-xpander-img.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Hyundai Creta",
+    "price": "35 Lakh",
+    "img": "https://www.autosbangla.com/images/hyundai/hyundai-creta-img.jpg"
+  }
+]
